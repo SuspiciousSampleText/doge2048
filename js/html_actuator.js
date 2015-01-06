@@ -10,13 +10,13 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var dogeSayings = ['such good', 'so amaze', 'many points', 'very unstoppable', 'great jorb', 'such playing', 'very good', 'points', 'very gaming', 'such player', 'concern' ,'bewildered',
-'many game', 'so good', 'very scores', 'so scoring', 'so hot right now', 'such playing', 'such matching', 'so matched', 'very matched', 'very neat' ,'such natural',]
+var dogeSayings = ['NOSCOPES!', 'GET TO DA CHOPPA NOU!!', 'MINECRAFT!!!', '360 QUICKSCOPE!', 'MLG!!', '420!!', 'SUCH SPORT!!!', 'OH BABY A TRIPLE!!!', 'ULTRA KILL!!!', 'WOW!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!', ':( Me sad' ,'ASDF SO ORIGINAL!!!!!!!!!!!!!!!!!!!!!!!!!',
+'GET REKT!!', 'SHREKT!', 'NOOBS BE DED!!', 'YOU DIEDED!', 'REST IN KILL!!!', 'REST IN PEPERONY!!!!!', 'DRAGON BALL!!!!!', 'AAAAAAAAAAAAAAHHHHHHHHHHHH!!!!!!!!!!!!!!!!!!', 'EASY PIZZA!!!!!!', 'DIEDING RIGHT LEFT!!!!' ,'SFASFAFAFAF!!!!!!!!!!!!',]
 
 var ads = [
 
-  '<a href="https://itunes.apple.com/us/app/snack-compass/id646138186?mt=8&ign-mpt=uo%3D4" target="_blank">Like Pizza?</a>',
-  '<a href="http://maxhash.com/doge" target="_blank">Check out everything hashtagged Doge!</a>',
+  '<a href="https://itunes.apple.com/us/app/snack-compass/id646138186?mt=8&ign-mpt=uo%3D4" target="_blank">Ill be back. YEAAAAAAAAAAAAAAAAAAAAAAAH!!!!</a>',
+  '<a href="http://maxhash.com/doge" target="_blank">GET TO DA CHOPPA! DO IT NOUUU!!!!</a>',
 ]
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
@@ -38,7 +38,7 @@ HTMLActuator.prototype.actuate = function (grid, metadata) {
 
     if (metadata.terminated) {
       if (metadata.over) {
-        self.message(false); // You lose
+        self.message(false); // You lose, loser.
       } else if (metadata.won) {
         self.message(true); // You win!
       }
@@ -168,10 +168,10 @@ HTMLActuator.prototype.clearMessage = function () {
 HTMLActuator.prototype.showInfo = function () {
   if ( this.info.getAttribute('style') === "display:block;"){
     this.info.setAttribute('style','display:none;')
-    document.querySelector('.show-info').innerHTML = 'INFO';
+    document.querySelector('.show-info').innerHTML = 'INFORMATION!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!';
   } else {
     this.info.setAttribute('style','display:block;') 
-    document.querySelector('.show-info').innerHTML = 'CLOSE';
+    document.querySelector('.show-info').innerHTML = 'CLOSEwINDOWS.EXE!!!!!!1!!!!';
   }
 }
 
