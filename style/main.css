@@ -278,10 +278,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score GET TO DA CHOPPAH!"; }
+  content: "SENPAI!"; }
 
 .best-container:after {
-  content: "Best ILL BE BACKJ!"; }
+  content: "GET REKT!"; }
 
 p {
   margin-top: 0;
@@ -510,28 +510,28 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-4 .tile-inner {
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://i1.mirror.co.uk/incoming/article1950120.ece/alternates/s2197/Arnold-Schwarzenegger.jpg');
     background-size: cover;    
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     
   .tile.tile-8 .tile-inner {
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://famousface.us/wp-content/gallery/arnold-schwarzenegger/arnold-schwarzenegger-13.jpg');
     background-size: cover;}
     
   .tile.tile-16 .tile-inner {
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://cdn2.nerdapproved.com/wp-content/uploads/2011/11/Total-Recall.jpg?874fb4');
     background-size: cover;}
     
   .tile.tile-32 .tile-inner {
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://www.xclusivetouch.co.uk/wp-content/uploads/2014/06/arnold-shut-up-angry-gif.gif');
     background-size: cover;}
     
   .tile.tile-64 .tile-inner {
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef014e8be98542970d-pi');
     background-size: cover;}
     
   .tile.tile-128 .tile-inner {
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://sia1.subirimagenes.net/img/2013/12/19/131219080655761464.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
@@ -540,7 +540,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
 
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://media.theiapolis.com/d4/hU0/i1NRO/k4/l1O5Q/w1HC/arnold-schwarzenegger-as-the-terminator-in.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
@@ -549,7 +549,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
 
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://neverendingradicaldude.com/wp-content/uploads/2011/04/asib.jpeg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
@@ -557,7 +557,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://www.craveonline.com/images/stories/2011/2013/January/Film/Commando_Arnold_Schwarzenegger.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
@@ -566,7 +566,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
 
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://spinoff.comicbookresources.com/wp-content/uploads/2013/05/arnold-schwarzenegger-last-stand.jpg');
     background-size: cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
@@ -575,7 +575,7 @@ hr {
         font-size: 15px; } }
   .tile.tile-super .tile-inner {
 
-    background: #f0f url('http://media4.popsugar-assets.com/files/2013/10/18/233/n/1922283/ad57fc860e590b49_thumb_temp321963991382151012.xxxlarge/i/Arnold-Schwarzenegger-Recites-Lines-Reddit.jpg');
+    background: #f0f url('http://nme.assets.ipccdn.co.uk/images/gallery/ArnoldSchwarzeneggerPA180111.jpg');
     background-size: cover;    
     font-size: 30px; }
     @media screen and (max-width: 480px) {
